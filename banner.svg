@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Tanisha">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Tanisha Yadav">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0ea5c6"/>
@@ -9,7 +9,7 @@
   </defs>
   <rect width="1000" height="280" rx="8" fill="url(#bg)"/>
   <path d="M0 235 C200 200 350 260 550 235 C750 210 880 240 1000 220 L1000 280 L0 280 Z" fill="#000" opacity="0.18"/>
-  <text x="500" y="105" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#ffffff">Tanisha</text>
+  <text x="500" y="105" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#ffffff">Tanisha Yadav</text>
   <text x="500" y="158" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700" fill="#ffffff">Powered by curiosity, compiled by caffeine, debugged by reality.</text>
   <text x="500" y="205" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="22" fill="#ffffff" opacity="0.92">B.Tech CSE  |  Java &amp; Python  |  Aspiring ML Engineer</text>
 </svg>
