@@ -33,6 +33,13 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,vscode,git,github,pandas,matplotlib&perline=8" />
 
+<br/>
+
+
+
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ff0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
+
+
 </div>
 
 | ☕ Languages | 📊 Data & ML (Learning) | 🧰 Tools |
