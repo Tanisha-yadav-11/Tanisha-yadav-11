@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tanisha-yadav-11/Tanisha-yadav-11/main/banner.svg?v=2" alt="Tanisha" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tanisha-yadav-11/Tanisha-yadav-11/main/banner.svg?v=3" alt="Tanisha Yadav" width="100%"/>
 
 <br/><br/>
 
