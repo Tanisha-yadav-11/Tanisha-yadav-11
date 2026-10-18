@@ -92,7 +92,7 @@
 - 🎲 Picks a random word each round
 - 🔁 Lets you replay without restarting
 
-📂 [Repository](https://github.com/Tanisha-yadav-11/Hanfman-game)
+📂 [Repository](https://github.com/Tanisha-yadav-11/Hangman-game)
 
 ---
 
