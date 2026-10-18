@@ -35,7 +35,7 @@
 
 <br/>
 
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ff0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ff0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
 
 </div>
 
