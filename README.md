@@ -31,20 +31,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,vscode,git,github,pandas,matplotlib&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,vscode,git,github&perline=6" alt="Java, Python, C++, VS Code, Git, GitHub" />
 
 <br/>
 
-
-
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ff0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
-
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ff0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
 
 </div>
 
 | ☕ Languages | 📊 Data & ML (Learning) | 🧰 Tools |
 |:---:|:---:|:---:|
-| Java · Python · C++ | Pandas · Matplotlib · EDA | VS Code · Git · GitHub |
+| Java · Python · C++ | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · EDA | VS Code · Git · GitHub |
 
 | 🎯 Currently Learning |
 |:---:|
