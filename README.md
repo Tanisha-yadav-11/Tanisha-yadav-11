@@ -4,10 +4,21 @@
 
 <br/><br/>
 
-![B.Tech](https://img.shields.io/badge/B.TECH-CSE-00c6ff?style=for-the-badge&labelColor=0d1117)
-![College](https://img.shields.io/badge/NEW%20LJ%20INSTITUTE-GTU-7b2ff7?style=for-the-badge&labelColor=0d1117)
-![Year](https://img.shields.io/badge/1ST-SEMESTER-ff0080?style=for-the-badge&labelColor=0d1117)
-![Learning](https://img.shields.io/badge/LEARNING-ML-00e676?style=for-the-badge&labelColor=0d1117)
+<p align="center">
+  <img src="https://img.shields.io/badge/B.TECH-CSE-00C8FF?style=for-the-badge&labelColor=0D1117" alt="B.Tech CSE"/>
+  <img src="https://img.shields.io/badge/AIML-C0127F?style=for-the-badge" alt="AIML"/>
+</p>
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/UNIVERSITY-GTU-7C3AED?style=for-the-badge&labelColor=0D1117" alt="GTU"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&labelColor=0D1117" alt="Python"/>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&labelColor=0D1117" alt="Java"/>
+  <img src="https://img.shields.io/badge/ML-E11D48?style=for-the-badge" alt="ML"/>
+</p>
+
 
 <br/>
 
@@ -32,10 +43,10 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,vscode,git,github&perline=6" alt="Java, Python, C++, VS Code, Git, GitHub" />
-
+<img src="https://cdn.simpleicons.org/googlecolab" height="40" alt="Google Colab" />
 <br/>
 
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-ff0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
 
 </div>
 
