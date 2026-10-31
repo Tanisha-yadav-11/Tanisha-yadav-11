@@ -33,7 +33,6 @@
 
 - 🎓 First-semester B.Tech CSE student at **New LJ Institute of Engineering and Technology** (GTU)
 - 🤖 Currently learning **Machine Learning**, starting with Python, Pandas and data analysis
-- 💻 I build projects to turn what I learn in class into working code
 - 🌱 Goal: grow into an AI/ML engineer, one project at a time
 
 ---
